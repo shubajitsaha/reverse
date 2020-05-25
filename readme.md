@@ -1,0 +1,1 @@
+A small utility to reverse all words in a file. The objective of this project is to build a fully functional python package with a well organized directory structure. This project should be able to serve as a template for building python packages.
